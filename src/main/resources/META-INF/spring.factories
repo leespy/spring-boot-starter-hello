@@ -1,0 +1,2 @@
+# 若有多个自动配置，则用","隔开，若想换行，则用"\"
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.leespy.springbootstarterhello.HelloServiceAutoConfiguration
